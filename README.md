@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Vinicius</h1>
 
-- 🔭 I’m currently working on **THOTH COMPANY TECHNOLOGY**
+<!-- 🔭 I’m currently working on **THOTH COMPANY TECHNOLOGY** -->
 
 - 🌱 I’m currently learning **HTML5-CSS3-JAVASCRIPT**
 
