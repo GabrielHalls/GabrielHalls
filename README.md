@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou procurando estágio , tenho 28 anos , estudando na Faculdade Flamingo<br>3° semestre de Analise e Desenvolvimento de Sistema<br>Atualmente estou aprendendo (back-end Node.Js)<br>Conheça minhas experiências Experiência com Front-end (HTML, CSS e JavaScript, React). Projetos da faculdade e meus projetos privados<br>
+Estou procurando estágio ou vaga Junior , tenho 28 anos , estudando na Faculdade Flamingo<br>3° semestre de Analise e Desenvolvimento de Sistema<br>Atualmente estou aprendendo (back-end Node.Js, MySQL)<br>Conheça minhas experiências Experiência com Front-end (HTML, CSS e JavaScript, React). Projetos da faculdade e meus projetos privados<br>
 
 
 ## 🌐 Socials:
