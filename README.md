@@ -7,6 +7,7 @@ Atualmente estou aprendendo (back-end Java com banco de dados MySQL)
 Conheça minhas experiências Experiência com Front-end (HTML, CSS e JavaScript, React). Projetos da faculdade e meus projetos privados
 
  >participei do bootcamp da [StartFuture](https://github.com/StartFuture) 01/07/2023 a 01/10/2023 -- durante 3 meses, dois squad's com objetivo em desenvolver um sistema de RH web Onboarding-me
+ 
  >participei de um curso de extensão Python de 60 horas reconhecido pela faculdade flamingo
 
  💬 Build your dreams
