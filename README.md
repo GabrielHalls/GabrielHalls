@@ -1,14 +1,13 @@
 
-##  Olá, meu nome é <strong>Gabriel</strong>
+## Hello, my name is Gabriel.
 
-🔭 Estou em busca de estágio ou vaga Junior , tenho 28 anos , estudando na Faculdade Flamingo
-4° semestre de Analise e Desenvolvimento de Sistema
-Atualmente estou aprendendo (back-end Java com banco de dados MySQL)
-Conheça minhas experiências Experiência com Front-end (HTML, CSS e JavaScript, React). Projetos da faculdade e meus projetos privados
+🔭 I am seeking a Junior position. I am 29 years old and have a degree in Systems Analysis and Development from Faculdade Flamingo. Currently, I am learning back-end development with Node.js and MySQL.
 
- >participei do bootcamp da [StartFuture](https://github.com/StartFuture) 01/07/2023 a 01/10/2023 -- durante 3 meses, dois squad's com objetivo em desenvolver um sistema de RH web Onboarding-me
- 
- >participei de um curso de extensão Python de 60 horas reconhecido pela faculdade flamingo
+Check out my experiences: I have experience with Front-end development (HTML, CSS, JavaScript, and React), including college projects and personal projects.
+
+I participated in the StartFuture bootcamp from 07/01/2023 to 10/01/2023, working in two squads over three months with the goal of developing an HR web system called Onboarding-me.
+
+I also completed a 60-hour Python extension course recognized by Faculdade Flamingo.
 
  💬 Build your dreams
 
